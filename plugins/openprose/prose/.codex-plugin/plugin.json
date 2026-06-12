@@ -1,0 +1,19 @@
+{
+  "name": "open-prose",
+  "version": "0.15.0",
+  "description": "Write a Markdown contract (`.prose.md`). Your agent reads it, wires services, runs subagents, and leaves an auditable trace.",
+  "license": "MIT",
+  "homepage": "https://github.com/openprose/prose",
+  "repository": "https://github.com/openprose/prose",
+  "author": { "name": "OpenProse", "url": "https://github.com/openprose" },
+  "keywords": ["ai", "agents", "orchestration", "dsl", "prose", "workflow", "multi-agent"],
+  "interface": {
+    "displayName": "OpenProse",
+    "shortDescription": "Write a Markdown contract (`.prose.md`). Your agent reads it, wires services, runs subagents, and leaves an auditable trace.",
+    "composerIcon": "./assets/icon.png",
+    "category": "Productivity",
+    "capabilities": ["Read", "Write"],
+    "brandColor": "#8a6b2e",
+    "websiteURL": "https://prose.md"
+  }
+}

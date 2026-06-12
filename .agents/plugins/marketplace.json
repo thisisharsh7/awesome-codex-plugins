@@ -461,6 +461,21 @@
       "icon": "./plugins/epicsagas/llm-transpile/assets/icon.png"
     },
     {
+      "name": "open-prose",
+      "displayName": "OpenProse",
+      "source": {
+        "source": "local",
+        "path": "./plugins/openprose/prose"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Development & Workflow",
+      "description": "Declarative Markdown contracts for multi-agent AI sessions — write a `.prose.md` file, and the agent wires services, runs subagents, and leaves an auditable trace.",
+      "icon": "./plugins/openprose/prose/assets/icon.png"
+    },
+    {
       "name": "personal-data-protection",
       "displayName": "Personal Data Protection",
       "source": {

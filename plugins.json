@@ -3,7 +3,7 @@
   "name": "awesome-codex-plugins",
   "version": "1.0.0",
   "last_updated": "2026-06-08",
-  "total": 105,
+  "total": 106,
   "categories": [
     "Development & Workflow",
     "Tools & Integrations"
@@ -328,6 +328,16 @@
       "category": "Development & Workflow",
       "source": "awesome-codex-plugins",
       "install_url": "https://raw.githubusercontent.com/epicsagas/llm-transpile/HEAD/.codex-plugin/plugin.json"
+    },
+    {
+      "name": "OpenProse",
+      "url": "https://github.com/openprose/prose",
+      "owner": "openprose",
+      "repo": "prose",
+      "description": "Declarative Markdown contracts for multi-agent AI sessions — write a `.prose.md` file, and the agent wires services, runs subagents, and leaves an auditable trace.",
+      "category": "Development & Workflow",
+      "source": "awesome-codex-plugins",
+      "install_url": "https://raw.githubusercontent.com/openprose/prose/HEAD/.codex-plugin/plugin.json"
     },
     {
       "name": "Personal Data Protection",
